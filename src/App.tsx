@@ -17,6 +17,9 @@ function App() {
         </a>
       </div>
       <h1>E-com System 1.0.0 (add login page)(update shopping cart)</h1>
+      <h2>create a sign up ui form</h2>
+      <h3>implement the register new user api</h3>
+      <h4>test create to Jira</h4>
       <div className="card">
         <button onClick={() => setCount((count) => count + 1)}>
           count is {count}
