@@ -35,6 +35,7 @@ function App() {
       <p>test job build</p>
       <p>test need lint before build</p>
       <p>test need2</p>
+      <p>test need3</p>
     </>
   )
 }
