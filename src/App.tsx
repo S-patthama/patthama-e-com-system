@@ -16,7 +16,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>E-com System V198.0.0 update ครั้งที่ 235</h1>
+      <h1>E-com System V198.0.71 update ครั้งที่ 235</h1>
       <p>(add login page)(update shopping cart)</p>
       <h2>create a sign up ui form</h2>
       <h3>implement the register new user api</h3>
