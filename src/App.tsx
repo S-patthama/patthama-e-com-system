@@ -33,6 +33,7 @@ function App() {
         Click on the Vite and React logos to learn more
       </p>
       <p>test job build</p>
+      <p>test need lint before build</p>
     </>
   )
 }
