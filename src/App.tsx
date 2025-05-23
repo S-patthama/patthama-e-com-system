@@ -16,7 +16,7 @@ function App() {
           <img src={reactLogo} className="logo react" alt="React logo" />
         </a>
       </div>
-      <h1>E-com System 1.0.0 (add login page)(update shopping cart)</h1>
+      <h1>E-com System V198.0.0 (add login page)(update shopping cart)</h1>
       <h2>create a sign up ui form</h2>
       <h3>implement the register new user api</h3>
       <h4>test create to Jira</h4>
